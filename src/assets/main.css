@@ -1,0 +1,20 @@
+body {
+  background: var(--dark-color-1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  color: var(--green-color-1);
+  font-family: Verdana, Geneva, Tahoma, sans-serif ;
+  font-weight: 200;
+}
+
+a {
+  text-decoration: none;
+  color: var(--green-color-1);
+}
+
+a:hover {
+  background-color: hsla(160, 100%, 37%, 0.2);
+}
